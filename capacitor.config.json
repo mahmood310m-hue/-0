@@ -1,0 +1,6 @@
+{
+  "appId": "iq.kauthar.school",
+  "appName": "مدرسة كوثر الأهلية",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
